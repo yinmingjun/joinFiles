@@ -1,10 +1,12 @@
-# joinFiles
-=======
+# Description
 
-joinFiles is a tool of join file.
+joinFiles is a tool to join source code.
 
- joinFiles.py <dir_name> <output_name> <ext_filter>
-  e.g.joinFiles.py .\src\main ucc_test.out java
+Usage:  
+> joinFiles.py &lt;dir_name&gt; &lt;output_name&gt; &lt;ext_filter&gt;
+
+example:   
+>joinFiles.py .\src\main ucc_test.out java
 
 # License
 =======
