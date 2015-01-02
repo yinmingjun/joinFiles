@@ -43,5 +43,4 @@ def main(argv):
     joinFolder(dirName, outName, extFilter)
     
 main(sys.argv)
-    
 
